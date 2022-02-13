@@ -1,6 +1,7 @@
 let a = 5;
 let b = 2;
 let myNmae = 'JICHANWOO';
+let myAge = 23;
 
 console.log('hello ' + myNmae);
 
